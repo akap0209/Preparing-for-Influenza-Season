@@ -16,3 +16,5 @@ such as cancer or heart disease that may have contributed to their deaths.
 The census data is collected once every 10 years by the US Census Bureau. This fact means that 
 we are relying on figures that are estimates rather than hard data. The census data is also 
 collected manually which leaves it prone to error.
+# Tableau Dashboard
+[Tableau Storyboard](https://public.tableau.com/app/profile/alex.kaplan3758/viz/2_9PreparingforInfluenzaSeasonVersion2/InfluenzaSeason?publish=yes)
