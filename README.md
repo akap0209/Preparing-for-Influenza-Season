@@ -12,4 +12,5 @@ season, a time when additional staff are in high demand. The final results will
 examine trends in influenza and how they can be used to proactively plan for
 staffing needs across the country.
 # Data Used
-The data was provided by the CDC in the Project Brief. The data set worked on contained the following information: [Influenza Deaths](CDC_Influenza_Deaths.xlsx)  [CDC Influenza Visits](CDC Influenza Visits.xlsx)
+The data was provided by the CDC in the Project Brief. The data set worked on contained the following information: [Influenza Deaths](CDC_Influenza_Deaths.xlsx)  [CDC Influenza Visits][CDC_Influenza_Visits.xlsx]
+
